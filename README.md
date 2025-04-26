@@ -9,14 +9,10 @@
 # 🎓 Education
 
 **University of Michigan** — *Ann Arbor, MI*  
-*Master of Science in Data Science (GPA: 3.5)*  
-*Graduation: December 2024*  
-
-> _Relevant Coursework:_ Data Mining, Statistical Inference, Cloud Computing, Machine Learning
+*Master of Science in Data Science*  
 
 **Davenport University** — *Warren, MI*  
-*Bachelor of Science in Computer Information Systems (GPA: 3.5)*  
-> Honors: Dean's List, National Society of Leadership and Success
+*Bachelor of Science in Computer Information Systems*  
 
 **United States Army** — *Specialist, Fort Benning, GA*  
 > Honorable Discharge 🇺🇸
