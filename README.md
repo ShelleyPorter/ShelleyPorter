@@ -54,6 +54,6 @@
 
 # 🚀 Projects & Highlights
 
-## Online Shoe Factory Database Application
+## 🔗[Online Shoe Factory Database Application](https://github.com/ShelleyPorter/Shoe-Factory-Project)
 - This project aims to design and implement a robust database application for an online shoe store. The application will handle various aspects of the business, including customer management, inventory tracking, order processing, employee management, and shipping logistics.
 ---
