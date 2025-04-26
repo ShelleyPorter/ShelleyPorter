@@ -54,32 +54,6 @@
 
 # 🚀 Projects & Highlights
 
-## Crew Scheduling Inference & Visualization
-- 🔹 PostgreSQL, Azure, SQL
-- 🔹 Designed a scalable database for scheduling & payroll
----
-
-## Mobile App Security Analysis
-- 🔹 Audited Android apps for encryption & NSC settings
-- 🔹 Delivered actionable cybersecurity reports
----
-
-## Facial Expression Recognition
-- 🔹 Developed using CNN (VGG/ResNet), OpenCV
-- 🔹 Achieved high-accuracy facial emotion classification
----
-
-## Image Caption Generator
-- 🔹 Combined VGG16 + LSTM with TensorFlow
-- 🔹 Generated natural language captions for images
----
-
-## Social Media Sentiment Dashboard
-- 🔹 Twitter API, NLP, Plotly
-- 🔹 Built real-time sentiment tracking visualization
----
-
-## Customer Demographics Analysis
-- 🔹 TF-IDF, SVM, Logistic Regression
-- 🔹 Created demographic-based shopping behavior dashboards
+## Online Shoe Store Database Application
+- This project aims to design and implement a robust database application for an online shoe store. The application will handle various aspects of the business, including customer management, inventory tracking, order processing, employee management, and shipping logistics.
 ---
