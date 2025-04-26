@@ -55,5 +55,8 @@
 # 🚀 Projects & Highlights
 
 ## 🔗[Online Shoe Factory Database Application](https://github.com/ShelleyPorter/Shoe-Factory-Project)
-- This project aims to design and implement a robust database application for an online shoe store. The application will handle various aspects of the business, including customer management, inventory tracking, order processing, employee management, and shipping logistics.
+- This project brings to life a dynamic database application tailored for an online shoe store. Designed to streamline operations from start to finish, the system expertly manages customer relationships, tracks real-time inventory, processes orders with precision, oversees employee activities, and coordinates smooth shipping logistics — delivering a seamless experience for both the business and its customers.
+
+## 🔗[Census Data Analysis](https://github.com/ShelleyPorter/Census-Data-Analysis)
+- This Census Data Analysis showcases the power of R Programming in transforming raw data into meaningful insights. Through meticulous data cleaning, string manipulation, statistical summarization, and data visualization, this project delivers a dynamic and fully reproducible analysis. Built entirely with R and crafted into a sleek HTML report, it highlights the seamless integration of technical precision and visual storytelling.
 ---
