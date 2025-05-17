@@ -2,7 +2,7 @@
 
 Location: Rockford, MI  
 Email: [shellep@umich.edu](mailto:shellep@umich.edu)  
-LinkedIn:** https://www.linkedin.com/in/lashelleporter
+LinkedIn: https://www.linkedin.com/in/lashelleporter
 ---
 
 # 🎓 Education
