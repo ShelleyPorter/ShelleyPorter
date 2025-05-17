@@ -7,11 +7,11 @@ LinkedIn: https://www.linkedin.com/in/lashelleporter
 
 # 🎓 Education
 
-**University of Michigan** — *Ann Arbor, MI*  
-*Master of Science in Data Science*  
+University of Michigan — Ann Arbor, MI 
+Master of Science in Data Science  
 
-**Davenport University** — *Warren, MI*  
-*Bachelor of Science in Computer Information Systems*  
+**Davenport University** — Warren, MI 
+Bachelor of Science in Computer Information Systems 
 
 **United States Army** — *Specialist, Fort Benning, GA*  
 > Honorable Discharge 🇺🇸
