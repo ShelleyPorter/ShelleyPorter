@@ -20,11 +20,11 @@
 
 # 🛠️ Core Competencies
 
-- 📊 Data Collection & Integration
-- 🗄️ Data Modeling & Database Design
-- ⚡ Performance Tuning & Query Optimization
-- 🧠 Problem Solving & Root Cause Analysis
-- 🎯 Decision-Making Using Quantitative Insights
+- Data Collection & Integration
+- Data Modeling & Database Design
+- Performance Tuning & Query Optimization
+- Problem Solving & Root Cause Analysis
+- Decision-Making Using Quantitative Insights
 
 ---
 
