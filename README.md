@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Shelley Porter**
+# 👋 Hi, I'm Shelley Porter
 
 Location: Rockford, MI  
 Email: [shellep@umich.edu](mailto:shellep@umich.edu)  
